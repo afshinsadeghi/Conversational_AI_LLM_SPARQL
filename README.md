@@ -1,9 +1,8 @@
 # knowledgeGraph-LLM-Conversational-system
 
 This prototype is a knowledge graph and LLM-based conversational system that directly infer answers from a knowledge graph.  
-<img src="./img/open_gpt_x.png" alt="GPT-X project" width="50px"/>  
 
-This project is done in the context of the [GPT-x project](https://opengpt-x.de/en/)
+This project is done in the context of the [GPT-x project](https://opengpt-x.de/en/)  <img src="./img/open_gpt_x.png" alt="GPT-X project" width="30px"/>  
 
 This application includes a dockerized website and its server that showcases the usage of LLM and knowledge graphs together to present a hallucination-less conversation. 
 
