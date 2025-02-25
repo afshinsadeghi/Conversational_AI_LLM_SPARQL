@@ -1,8 +1,9 @@
 # knowledgeGraph-LLM-Conversational-system
 
-This is a knowledge graph and LLM-based conversational-system prototype with no direct inferred answers from a knowledge graph.
+This prototype is a knowledge graph and LLM-based conversational system that directly infer answers from a knowledge graph.  
+<img src="./img/open_gpt_x.png" alt="GPT-X project" width="50px"/>  
 
-<img src="./img/open_gpt_x.png" alt="GPT-X project" width="50" vertical-align= middle/>This project is made in the context of the GPT-x project! 
+This project is done in the context of the [GPT-x project](https://opengpt-x.de/en/)
 
 This application includes a dockerized website and its server that showcases the usage of LLM and knowledge graphs together to present a hallucination-less conversation. 
 
@@ -10,8 +11,8 @@ The data used in the demo is scraped from BMW's automobile company's website.
 
 ![alt text](./img/Conversation_system.png "An image of the interface website included in the prototype.")
 
-# requiements:
-Setting the openAI API for GPT-4 key or changing main_openGptx.py to main.py to use OpenGpt-X 
+# Requiements:
+Setting the openAI API for the GPT-4 key or changing main_openGptx.py to main.py to use OpenGpt-X 
 
 ### To run the application :
 
@@ -36,7 +37,7 @@ Here is a list of questions that can be used to test the system:
 How many electric cars are available?
 Which hybrid car emits the least CO2?
 Which is the weakest car available?
-What is tire pressure
+What is tire pressure?
 What is my tire pressure
 What is the cabin temperature
 How is my air filter
