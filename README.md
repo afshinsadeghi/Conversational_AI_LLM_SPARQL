@@ -2,7 +2,7 @@
 
 This is a knowledge graph and LLM-based conversational-system prototype with no direct inferred answers from a knowledge graph.
 
-<img src="./img/open_gpt_x.png" alt="GPT-X project" width="50" vertical-align: middle;/>This project is made in the context of the GPT-x project! 
+<img src="./img/open_gpt_x.png" alt="GPT-X project" width="50" vertical-align= middle/>This project is made in the context of the GPT-x project! 
 
 This application includes a dockerized website and its server that showcases the usage of LLM and knowledge graphs together to present a hallucination-less conversation. 
 
